@@ -1,0 +1,35 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Fioooooooo/claude-plugins/refs/heads/main/schema/marketplace.schema.json",
+  "name": "fio-claude-plugins",
+  "description": "A collection of Claude plugins developed by Fio.",
+  "owner": {
+    "name": "Fio",
+    "email": "fuyitao2018@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "code-review",
+      "description": "对代码变更进行全面审查",
+      "version": "1.0.0",
+      "author": {
+        "name": "Anand Tyagi",
+        "url": "https://github.com/ananddtyagi"
+      },
+      "source": "./plugins/code-review",
+      "homepage": "https://claudecodecommands.directory/commands/code-review",
+      "keywords": ["code-review"]
+    },
+    {
+      "name": "git",
+      "description": "简化你的 git 工作流，使用简单的命令进行提交、分支管理等操作",
+      "version": "1.0.0",
+      "author": {
+        "name": "Anthropic",
+        "email": "support@anthropic.com"
+      },
+      "source": "./plugins/git",
+      "homepage": "https://claudecodecommands.directory/commands/git",
+      "keywords": ["git", "version-control", "cli"]
+    }
+  ]
+}
