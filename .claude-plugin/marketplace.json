@@ -29,6 +29,17 @@
       "source": "./plugins/git",
       "homepage": "https://github.com/anthropics/claude-plugins-official",
       "keywords": ["git", "version-control", "cli"]
+    },
+    {
+      "name": "design",
+      "description": "设计助手插件，帮助生成设计灵感、配色方案和设计建议",
+      "version": "1.0.0",
+      "author": {
+        "name": "Fio"
+      },
+      "source": "./plugins/design",
+      "homepage": "https://github.com/Fioooooooo/claude-plugins",
+      "keywords": ["design inspiration", "color schemes", "design suggestions"]
     }
   ]
 }
