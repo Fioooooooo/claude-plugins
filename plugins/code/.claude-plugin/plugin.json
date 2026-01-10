@@ -1,0 +1,10 @@
+{
+  "name": "code",
+  "description": "综合代码辅助工具集，包含代码审查、代码简化、代码分析等功能",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fio"
+  },
+  "homepage": "https://github.com/Fioooooooo/claude-plugins",
+  "keywords": ["code review", "code analysis", "code simplifier", "code assistant"]
+}

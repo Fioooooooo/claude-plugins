@@ -8,16 +8,15 @@
   },
   "plugins": [
     {
-      "name": "code-review",
-      "description": "对代码变更进行全面审查",
+      "name": "code",
+      "description": "综合代码辅助工具集，包含代码审查、代码简化、代码分析等功能",
       "version": "1.0.0",
       "author": {
-        "name": "Anand Tyagi",
-        "url": "https://github.com/ananddtyagi"
+        "name": "Fio"
       },
-      "source": "./plugins/code-review",
-      "homepage": "https://claudecodecommands.directory/commands/code-review",
-      "keywords": ["code-review"]
+      "source": "./plugins/code",
+      "homepage": "https://github.com/Fioooooooo/claude-plugins",
+      "keywords": ["code review", "code analysis", "code simplifier", "code assistant"]
     },
     {
       "name": "git",
@@ -28,7 +27,7 @@
         "email": "support@anthropic.com"
       },
       "source": "./plugins/git",
-      "homepage": "https://claudecodecommands.directory/commands/git",
+      "homepage": "https://github.com/anthropics/claude-plugins-official",
       "keywords": ["git", "version-control", "cli"]
     }
   ]
