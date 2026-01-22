@@ -1,0 +1,13 @@
+{
+  "name": "frontend",
+  "description": "前端开发通用助手插件，提供跨框架的组件设计模式、性能优化、测试策略、无障碍设计等通用技能",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fio"
+  },
+  "homepage": "https://github.com/Fioooooooo/claude-plugins",
+  "keywords": ["frontend", "component patterns", "performance", "testing", "accessibility", "universal"],
+  "commands": "./commands/",
+  "agents": "./agents/",
+  "skills": "./skills/"
+}

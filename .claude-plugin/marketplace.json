@@ -16,7 +16,12 @@
       },
       "source": "./plugins/code",
       "homepage": "https://github.com/Fioooooooo/claude-plugins",
-      "keywords": ["code review", "code analysis", "code simplifier", "code assistant"]
+      "keywords": [
+        "code review",
+        "code analysis",
+        "code simplifier",
+        "code assistant"
+      ]
     },
     {
       "name": "git",
@@ -40,6 +45,35 @@
       "source": "./plugins/design",
       "homepage": "https://github.com/Fioooooooo/claude-plugins",
       "keywords": ["design inspiration", "color schemes", "design suggestions"]
+    },
+    {
+      "name": "frontend",
+      "description": "前端开发通用助手插件，提供跨框架的组件设计模式、性能优化、测试策略、无障碍设计等通用技能",
+      "version": "1.0.0",
+      "author": {
+        "name": "Fio"
+      },
+      "source": "./plugins/frontend",
+      "homepage": "https://github.com/Fioooooooo/claude-plugins",
+      "keywords": [
+        "frontend",
+        "component patterns",
+        "performance",
+        "testing",
+        "accessibility",
+        "universal"
+      ]
+    },
+    {
+      "name": "vue",
+      "description": "Vue.js 开发助手插件，提供 Composition API、Vue Router、Pinia 状态管理、组件开发等 Vue 专属技能",
+      "version": "1.0.0",
+      "author": {
+        "name": "hyf0"
+      },
+      "source": "./plugins/vue",
+      "homepage": "https://github.com/Fioooooooo/claude-plugins",
+      "keywords": ["vue", "vue3", "composition-api", "pinia", "vueuse"]
     }
   ]
 }

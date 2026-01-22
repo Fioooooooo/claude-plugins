@@ -1,0 +1,11 @@
+{
+  "name": "vue",
+  "description": "Vue.js 开发助手插件，提供 Composition API、Vue Router、Pinia 状态管理、组件开发等 Vue 专属技能",
+  "version": "1.0.0",
+  "author": {
+    "name": "hyp0",
+    "url": "https://github.com/hyf0"
+  },
+  "homepage": "https://github.com/hyf0/vue-skills",
+  "keywords": ["vue", "vue3", "composition-api", "pinia", "vueuse"]
+}
