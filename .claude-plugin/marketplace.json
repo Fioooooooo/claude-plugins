@@ -74,6 +74,17 @@
       "source": "./plugins/vue",
       "homepage": "https://github.com/Fioooooooo/claude-plugins",
       "keywords": ["vue", "vue3", "composition-api", "pinia", "vueuse"]
+    },
+    {
+      "name": "nuxt",
+      "description": "Nuxt.js 开发助手插件，提供 Nuxt 模块、Nuxt UI、Motion 动画等 Nuxt 专属技能",
+      "version": "1.0.0",
+      "author": {
+        "name": "onmax"
+      },
+      "source": "./plugins/nuxt",
+      "homepage": "https://github.com/onmax/nuxt-skills",
+      "keywords": ["nuxt", "nuxt-modules", "nuxt-ui", "motion"]
     }
   ]
 }

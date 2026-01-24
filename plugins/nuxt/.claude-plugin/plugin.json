@@ -1,0 +1,11 @@
+{
+  "name": "nuxt",
+  "description": "Nuxt.js 开发助手插件，提供 Nuxt 模块、Nuxt UI、Motion 动画等 Nuxt 专属技能",
+  "version": "1.0.0",
+  "author": {
+    "name": "onmax"
+  },
+  "homepage": "https://github.com/onmax/nuxt-skills",
+  "keywords": ["nuxt", "nuxt-modules", "nuxt-ui", "motion"],
+  "skills": "./skills/"
+}
